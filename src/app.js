@@ -5,7 +5,7 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-let quien = ["Mi pez", "Mi enemiga", "Mi odontologo", "Mi caimán"];
+let quien = ["¡Mi pez", "¡Mi enemiga", "¡Mi odontologo", "¡Mi caimán"];
 let accion = ["vomitó en", "destruyó", "robó", "se atragantó con"];
 let que = ["mi proyecto final", "mis pestañas postizas", "mi jet privado"];
 let cuando = [
